@@ -7,6 +7,7 @@ These instances were generated based on rules found in as of yet unpublished pap
 The paper citation will be provided when available.
 
 The file format is as follows:
+
 X: number of weapons
 
 Y: number of targets
